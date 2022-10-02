@@ -11,6 +11,8 @@ public class test
 
         assertTrue(a<3)
         assertTrue(a+3==4);
+        assertTrue(a+3==4);
+        assertTrue(a+3==4);
 
     }
 
