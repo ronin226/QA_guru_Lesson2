@@ -7,9 +7,11 @@ public class test
     @Test
     void myTest(){
         int a = 1;
+        
+        int b = 3;
 
 
-        assertTrue(a<3)
+        assertTrue(a=3)
         assertTrue(a+3==4);
 
     }
